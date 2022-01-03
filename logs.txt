@@ -1,0 +1,35 @@
+[CLIENT] MESSAGE ID: VChk Data: {'m0': {'ID': 'VChk', 'OS': 'Android', 'OSt': 2}, 'mc': 1}
+[SERVER] MESSAGE ID: VChk Data: {'ID': 'VChk', 'VN': 91}
+[CLIENT] MESSAGE ID: GPd Data: {'m0': {'ID': 'GPd', 'CoID': 'us-east-1:b4fc643c-5b61-46a6-a4dc-c16805942d0e', 'Tk': '', 'cgy': 883}, 'mc': 1}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618188778760}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618213874770, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618193609270}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618218651290, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618197203130}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618222269930, 'SSlp': 30}
+[CLIENT] MESSAGE ID: WREU Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[CLIENT] MESSAGE ID: BcsU Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[CLIENT] MESSAGE ID: gLSI Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[CLIENT] MESSAGE ID: ULS Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[CLIENT] MESSAGE ID: UFIPAT Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'WREU', 'WREgA': True}, 'm1': {'ID': 'BcsU'}, 'm2': {'ID': 'gLSI'}, 'm3': {'ID': 'ULS', 'LS': '#menu'}, 'm4': {'ID': 'UFIPAT'}, 'm5': {'ID': 'ST', 'T': 637767618213794300}, 'mc': 6}
+[SERVER] MESSAGE ID: WREU Data: {'ID': 'WREU', 'WREgA': [26], 'T': [637767936000000000]}
+[SERVER] MESSAGE ID: BcsU Data: {'ID': 'BcsU', 'Ct': 19, '0': {'BT': 413, 'Amt': 1, 'BCAmt': 250}, '1': {'BT': 3454, 'Amt': 1, 'BCAmt': 600, 'T': 637759008000000000, 'T2': 637762119000000000}, '2': {'BT': 3455, 'Amt': 1, 'BCAmt': 600, 'T': 637759008000000000, 'T2': 637762119600000000}, '3': {'BT': 3456, 'Amt': 1, 'BCAmt': 600, 'T': 637759008000000000, 'T2': 637762119600000000}, '4': {'IPId': 'BumblebeeSuitKit', 'BCAmt': 40000, 'Idx': 1, 'T2': 637767648000000000}, '5': {'IPId': 'RaccoonSuitKit', 'BCAmt': 20000, 'Idx': 1, 'T2': 637767648000000000}, '6': {'IPId': 'FamiliarTeddy', 'BCAmt': 14000, 'Idx': 1, 'T2': 637769376000000000}, '7': {'BT': 4517, 'Amt': 1, 'BCAmt': 350, 'Idx': 2, 'T2': 637782823200000000}, '8': {'BT': 4518, 'Amt': 1, 'BCAmt': 350, 'Idx': 2, 'T2': 637782823200000000}, '9': {'BT': 4824, 'Amt': 2, 'BCAmt': 350, 'Idx': 3, 'T2': 637763814000000000}, '10': {'BT': 661, 'Amt': 1, 'BCAmt': 30000, 'Idx': 4, 'T2': 637763909400000000}, '11': {'BT': 4184, 'Amt': 1, 'BCAmt': 80000, 'Idx': 4, 'T2': 637763910000000000}, '12': {'BT': 2734, 'Amt': 1, 'BCAmt': 999, 'Idx': 4, 'T2': 637763910600000000}, '13': {'BT': 3642, 'Amt': 1, 'BCAmt': 500, 'Idx': 5, 'T2': 637760295600000000}, '14': {'BT': 3643, 'Amt': 1, 'BCAmt': 500, 'Idx': 5, 'T2': 637760296200000000}, '15': {'BT': 211, 'Amt': 1, 'BCAmt': 350, 'Idx': 5, 'T2': 637760297400000000}, '16': {'BT': 206, 'Amt': 1, 'BCAmt': 350, 'Idx': 5, 'T2': 637760297400000000}, '17': {'BT': 3637, 'Amt': 1, 'BCAmt': 400, 'Idx': 9, 'T2': 637761600000000000}, '18': {'BT': 4831, 'Amt': 1, 'BCAmt': 300, 'Idx': 13, 'T2': 637762464000000000}}
+[SERVER] MESSAGE ID: gLSI Data: {'LSI': 637758720000000000, 'ID': 'gLSI'}
+[SERVER] MESSAGE ID: UFIPAT Data: {'ID': 'UFIPAT', 'DT': datetime.datetime(2022, 1, 3, 0, 0), 'DItemAds': 0, 'DGemAds': 0, 'DAdTVAds': 0}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618238992290, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618218544030}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618243591430, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618222100650}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618247151430, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618225625050}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618250670480, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618229182970}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618254250350, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618233566120}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618258710560, 'SSlp': 30}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'ST', 'T': 637767618237764330}, 'mc': 1}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618262910640, 'SSlp': 30}
+[CLIENT] MESSAGE ID: p Data: {'m0': {'ID': 'p'}, 'm1': {'ID': 'ST', 'T': 637767618241815550}, 'mc': 2}
+[CLIENT] MESSAGE ID: ST Data: {'m0': {'ID': 'p'}, 'm1': {'ID': 'ST', 'T': 637767618241815550}, 'mc': 2}
+[SERVER] MESSAGE ID: ST Data: {'ID': 'ST', 'STime': 637767618270211760, 'SSlp': 30}
